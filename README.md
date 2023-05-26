@@ -4,7 +4,7 @@
 
 **GPTUnli** - A command-line tool for interacting with GPTUnli chatbot. (https://www.chatgptunli.com)
 
-<img src="https://github.com/x404xx/GPT-Go/assets/114883816/e58280fd-8ba0-4107-9c5b-1ac4fde9bf79" width="auto" height="auto">
+<img src="https://github.com/x404xx/GPT-Unli/assets/114883816/1331b4b7-5c9e-456d-9370-2eaac8aa5128" width="auto" height="auto">
 
 ## **"This is not an official API"**
 > **Note**
