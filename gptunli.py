@@ -53,7 +53,7 @@ class ChatGPTUnli:
         ):
 
         print(prompt, end='')
-        return '/n'.join(iter(input, ''))
+        return '\n'.join(iter(input, ''))
 
     def post_data(
         self, query: str, assistant_message: dict
